@@ -4,6 +4,8 @@
 
 - [一起来学设计模式之认识设计模式](https://mp.weixin.qq.com/s/1sFPpYKMYyRvKzU0EFse1A)
 
+## 项目源码(源码已更新 欢迎star⭐️)
+- [java-design-mode-all: https://github.com/qiuChengleiy/java-design-mode-all](https://github.com/qiuChengleiy/java-design-mode-all)
 
 ## Kafka 专题学习
 - [一起来学kafka之Kafka集群搭建](https://mp.weixin.qq.com/s/XV2GUwz8mKSNmdI5YWwYVg)
