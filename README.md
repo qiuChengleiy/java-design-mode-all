@@ -7,7 +7,7 @@
 - [一起来学设计模式之工厂模式](https://mp.weixin.qq.com/s/E1ish-KysPsS5hjyzxkTow)
 - [一起来学设计模式之建造者模式](https://mp.weixin.qq.com/s/a-rTYNwnZAYPeEQQ0vuoUg)
 - [一起来学设计模式之原型模式](https://mp.weixin.qq.com/s/u9hJuZeUFEqyxdj7EP4NLA)
-
+- [一起来学设计模式之适配器模式](https://mp.weixin.qq.com/s/bazzKTQ08Tny4OdrQmaF8w)
 
 
 
