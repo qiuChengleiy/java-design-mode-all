@@ -2,7 +2,7 @@ package com.java.design.decorator;
 
 /**
  * @Author qcl
- * @Description
+ * @Description 装饰器模式
  * @Date 9:42 AM 4/11/2023
  */
 public class DecoratorDemo {
