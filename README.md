@@ -12,6 +12,7 @@
 - [一起来学设计模式之组合模式](https://mp.weixin.qq.com/s/Xm0HLLZSuaN6xRBSIu1bUA)
 - [一起来学设计模式之装饰器模式](https://mp.weixin.qq.com/s/U-93tjfB4OW0iMdFe0ziUg)
 - [一起来学设计模式之外观模式](https://mp.weixin.qq.com/s/9RzFRZT3KA5z4GahV1j6aw)
+- [一起来学设计模式之享元模式](https://mp.weixin.qq.com/s/0K0U7cUlgsxSxFJdde8E7A)
 
 
 
