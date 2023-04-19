@@ -14,7 +14,7 @@
 - [一起来学设计模式之外观模式](https://mp.weixin.qq.com/s/9RzFRZT3KA5z4GahV1j6aw)
 - [一起来学设计模式之享元模式](https://mp.weixin.qq.com/s/0K0U7cUlgsxSxFJdde8E7A)
 - [一起来学设计模式之代理模式](https://mp.weixin.qq.com/s/hBp0fJ83Y9ijSnoraqlyIA)
-
+- [一起来学设计模式之责任链模式](https://mp.weixin.qq.com/s/552JCyXhNcxqOIrVC3OJWQ)
 
 
 
