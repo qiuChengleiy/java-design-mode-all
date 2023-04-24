@@ -8,14 +8,16 @@
 - [一起来学设计模式之建造者模式](https://mp.weixin.qq.com/s/a-rTYNwnZAYPeEQQ0vuoUg)
 - [一起来学设计模式之原型模式](https://mp.weixin.qq.com/s/u9hJuZeUFEqyxdj7EP4NLA)
 - [一起来学设计模式之适配器模式](https://mp.weixin.qq.com/s/bazzKTQ08Tny4OdrQmaF8w)
-- [一起来学设计模式之适配器模式](https://mp.weixin.qq.com/s/bazzKTQ08Tny4OdrQmaF8w)
+- [一起来学设计模式之桥接模式](https://mp.weixin.qq.com/s/jsh5oovdFG8W7PdJ4KQWRQ)
 - [一起来学设计模式之组合模式](https://mp.weixin.qq.com/s/Xm0HLLZSuaN6xRBSIu1bUA)
 - [一起来学设计模式之装饰器模式](https://mp.weixin.qq.com/s/U-93tjfB4OW0iMdFe0ziUg)
 - [一起来学设计模式之外观模式](https://mp.weixin.qq.com/s/9RzFRZT3KA5z4GahV1j6aw)
 - [一起来学设计模式之享元模式](https://mp.weixin.qq.com/s/0K0U7cUlgsxSxFJdde8E7A)
 - [一起来学设计模式之代理模式](https://mp.weixin.qq.com/s/hBp0fJ83Y9ijSnoraqlyIA)
 - [一起来学设计模式之责任链模式](https://mp.weixin.qq.com/s/552JCyXhNcxqOIrVC3OJWQ)
+- [一起来学设计模式之命令模式](https://mp.weixin.qq.com/s/9ENTuLqpmwSfUSc9Qe1vqQ)
 - [一起来学设计模式之解释器模式](https://mp.weixin.qq.com/s/UMi7GX9dOXYXgaxPCMuKgQ)
+- [一起来学设计模式之迭代器模式](https://mp.weixin.qq.com/s/ql_jDSK9LNHWCyhQ6uK6aQ)
 
 
 ## 项目源码(源码已更新 欢迎star⭐️)
