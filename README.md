@@ -19,6 +19,8 @@
 - [一起来学设计模式之解释器模式](https://mp.weixin.qq.com/s/UMi7GX9dOXYXgaxPCMuKgQ)
 - [一起来学设计模式之迭代器模式](https://mp.weixin.qq.com/s/ql_jDSK9LNHWCyhQ6uK6aQ)
 - [一起来学设计模式之中介者模式](https://mp.weixin.qq.com/s/_8j1QFYZWTiFEP5qz0rHfw)
+- [一起来学设计模式之备忘录模式](https://mp.weixin.qq.com/s/lUiySMrzx2hdmSsHMJPgpA)
+
 
 
 ## 项目源码(源码已更新 欢迎star⭐️)
