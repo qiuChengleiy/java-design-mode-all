@@ -21,7 +21,7 @@
 - [一起来学设计模式之中介者模式](https://mp.weixin.qq.com/s/_8j1QFYZWTiFEP5qz0rHfw)
 - [一起来学设计模式之备忘录模式](https://mp.weixin.qq.com/s/lUiySMrzx2hdmSsHMJPgpA)
 - [一起来学设计模式之观察者模式](https://mp.weixin.qq.com/s/THiXHvZG0W-qYU-EjUT1Nw)
-
+- [一起来学设计模式之状态模式](https://mp.weixin.qq.com/s/6k-HQCsGCTBBI9ie3eKk9A)
 
 ## 项目源码(源码已更新 欢迎star⭐️)
 - [java-design-mode-all: https://github.com/qiuChengleiy/java-design-mode-all](https://github.com/qiuChengleiy/java-design-mode-all)
