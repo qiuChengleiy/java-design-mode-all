@@ -25,7 +25,7 @@
 - [一起来学设计模式之策略模式](https://mp.weixin.qq.com/s/pjbtiLss4TDGsWeXBQGU0A)
 - [一起来学设计模式之模板方法模式](https://mp.weixin.qq.com/s/QKWfGkot27sutkDD2-epww)
 - [一起来学设计模式之访问者模式](https://mp.weixin.qq.com/s/W8saETmyLRsV6LfvPxSxXQ)
-
+- [一起来学设计模式之依赖注入模式](https://mp.weixin.qq.com/s/tI0JxsgDKIz8Kfd--HcQEg)
 
 
 ## 项目源码(源码已更新 欢迎star⭐️)
